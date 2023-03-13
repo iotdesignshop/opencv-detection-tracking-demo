@@ -33,7 +33,8 @@ source demoenv/bin/activate
 
 3) Install dependencies
 ```
-python3 -m pip install -r requirements.txt
+pip install wheel numpy scipy matplotlib scikit-image scikit-learn ipython
+pip install opencv-contrib-python
 ```
 
 4) Download the YOLOv3 Weights File into the project folder - This is a couple hundred megs, so I didn't include it in the GitHub repo, but you can grab it from here:
