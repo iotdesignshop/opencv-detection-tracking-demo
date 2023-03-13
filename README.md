@@ -21,7 +21,7 @@ OpenCV uses the CPU for both Neural Nets and Tracking. In the Real Time video, t
 
 ## How can I run this myself?
 
-Here are the basic instructions for getting it working on a Mac or Linux system. It will also run on Windows, but the procedure will be slightly different although quite similar as well as it really just relies on Python and the Python Virtual Environment system.
+Here are the basic instructions for getting it working on a Mac or Linux system. It will also run on Windows, but the procedure will be slightly different, although quite similar as well as it really just relies on Python and the Python Virtual Environment system.
 
 1) Starting point - You've got Python 3.x installed and working. If not - this is a good [tutorial as a starting point for how all that works.](https://realpython.com/python-virtual-environments-a-primer/)
 
@@ -46,5 +46,7 @@ wget https://pjreddie.com/media/files/yolov3.weights
 ```
 python tracking.py
 ```
+
+When the system detects the ball, it will wait for a keypress to continue. Press any key, or ESC if you wish to exit the demo.
 
 Have fun!
