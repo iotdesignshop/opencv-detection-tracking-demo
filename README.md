@@ -9,3 +9,4 @@ This video shows the output of the demo. When a blue box is shown, the system is
 
 It's simple, but works surpsisingly welll!
 
+[![View on YouTube](https://github.com/iotdesignshop/opencv-detection-tracking-demo/blob/main/opencv-tracking-thumb.png?raw=true)](https://youtu.be/f0gGrJ5QMJE)
